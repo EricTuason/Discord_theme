@@ -26,10 +26,10 @@
   --background-size: cover;
   --background-repeat: no-repeat;
   --background-attachment: fixed;
-  --background-brightness: 50%;
+  --background-brightness: 40%;
   --background-contrast: 100%;
   --background-saturation: 151%;
-  --background-grayscale: 0%;
+  --background-grayscale: 10%;
   --background-invert: 0%;
   --background-blur: 1px;
   --background-overlay: rgb(255,236,236,0.6);
